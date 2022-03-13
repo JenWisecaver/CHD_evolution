@@ -1,0 +1,53 @@
+NP_595385.1	4896	Schizosaccharomyces pombe	RefSeq	Fungi - Ascomycota	subfamily II	SpMit1
+NP_001342861.1	4896	Schizosaccharomyces pombe	RefSeq	Fungi - Ascomycota	subfamily I	SpHrp3
+NP_593660.1	4896	Schizosaccharomyces pombe	RefSeq	Fungi - Ascomycota	subfamily I	SpHrp1
+NP_011091.1	4932	Saccharomyces cerevisiae	RefSeq	Fungi - Ascomycota	subfamily I	ScCHD1
+XP_025881204.1	4530	Oryza sativa	RefSeq	Viridiplantae - Monocots	subfamily II - plant PKR4	OsPKR4
+XP_015646688.1	4530	Oryza sativa	RefSeq	Viridiplantae - Monocots	subfamily I	OsPKR3
+XP_015646596.1	4530	Oryza sativa	RefSeq	Viridiplantae - Monocots	subfamily II - plant PKR1	OsPKR1
+XP_015643095.1	4530	Oryza sativa	RefSeq	Viridiplantae - Monocots	subfamily II - plant PKL	OsPKL
+XP_015625288.1	4530	Oryza sativa	RefSeq	Viridiplantae - Monocots	subfamily II - plant MOM1	OsMOM2
+XP_015643423.1	4530	Oryza sativa	RefSeq	Viridiplantae - Monocots	subfamily II - plant MOM1	OsMOM1
+XP_011246576.1	10090	Mus musculus	RefSeq	Metazoa - Mammals	subfamily III - vert CHD9	MmCHD9
+XP_017171661.1	10090	Mus musculus	RefSeq	Metazoa - Mammals	subfamily III - vert CHD8	MmCHD8
+NP_001264078.1	10090	Mus musculus	RefSeq	Metazoa - Mammals	subfamily III - vert CHD7	MmCHD7
+NP_775544.2	10090	Mus musculus	RefSeq	Metazoa - Mammals	subfamily III - vert CHD6	MmCHD6
+XP_006538996.1	10090	Mus musculus	RefSeq	Metazoa - Mammals	subfamily II - vert CHD5	MmCHD5
+XP_006505348.1	10090	Mus musculus	RefSeq	Metazoa - Mammals	subfamily II - vert CHD4	MmCHD4
+XP_017169945.1	10090	Mus musculus	RefSeq	Metazoa - Mammals	subfamily II - vert CHD3	MmCHD3
+NP_001074814.2	10090	Mus musculus	RefSeq	Metazoa - Mammals	subfamily I - vert CHD2	MmCHD2
+NP_031716.2	10090	Mus musculus	RefSeq	Metazoa - Mammals	subfamily I - vert CHD1	MmCHD1
+XP_005256225.1	9606	Homo sapiens	RefSeq	Metazoa - Mammals	subfamily III - vert CHD9	HsCHD9
+NP_001164100.1	9606	Homo sapiens	RefSeq	Metazoa - Mammals	subfamily III - vert CHD8	HsCHD8
+NP_060250.2	9606	Homo sapiens	RefSeq	Metazoa - Mammals	subfamily III - vert CHD7	HsCHD7
+XP_016883588.1	9606	Homo sapiens	RefSeq	Metazoa - Mammals	subfamily III - vert CHD6	HsCHD6
+NP_056372.1	9606	Homo sapiens	RefSeq	Metazoa - Mammals	subfamily II - vert CHD5	HsCHD5
+NP_001264.2	9606	Homo sapiens	RefSeq	Metazoa - Mammals	subfamily II - vert CHD4	HsCHD4
+XP_016879554.1	9606	Homo sapiens	RefSeq	Metazoa - Mammals	subfamily II - vert CHD3	HsCHD3
+NP_001262.3	9606	Homo sapiens	RefSeq	Metazoa - Mammals	subfamily I - vert CHD2	HsCHD2
+NP_001351042.1	9606	Homo sapiens	RefSeq	Metazoa - Mammals	subfamily I - vert CHD1	HsCHD1
+XP_005169069.2	7955	Danio rerio	RefSeq	Metazoa - Other_Bony_Vertebrates	subfamily III - vert CHD9	DrCHD9
+NP_001334600.1	7955	Danio rerio	RefSeq	Metazoa - Other_Bony_Vertebrates	subfamily III - vert CHD8	DrCHD8
+XP_697956.4	7955	Danio rerio	RefSeq	Metazoa - Other_Bony_Vertebrates	subfamily III - vert CHD7	DrCHD7
+XP_699360.5	7955	Danio rerio	RefSeq	Metazoa - Other_Bony_Vertebrates	subfamily III - vert CHD6	DrCHD6
+XP_003199545.2	7955	Danio rerio	RefSeq	Metazoa - Other_Bony_Vertebrates	subfamily II - vert CHD5	DrCHD5
+XP_021322613.1	7955	Danio rerio	RefSeq	Metazoa - Other_Bony_Vertebrates	subfamily II - vert CHD4	DrCHD4
+XP_009301392.1	7955	Danio rerio	RefSeq	Metazoa - Other_Bony_Vertebrates	subfamily II - vert CHD3	DrCHD3
+XP_021323366.1	7955	Danio rerio	RefSeq	Metazoa - Other_Bony_Vertebrates	subfamily I - vert CHD2	DrCHD2
+NP_001121770.2	7955	Danio rerio	RefSeq	Metazoa - Other_Bony_Vertebrates	subfamily I - vert CHD1	DrCHD1
+NP_649111.1	7227	Drosophila melanogaster	RefSeq	Metazoa - Arthropods	subfamily II	DmMi-2
+NP_523441.1	7227	Drosophila melanogaster	RefSeq	Metazoa - Arthropods	subfamily III	DmKismet
+NP_001014591.1	7227	Drosophila melanogaster	RefSeq	Metazoa - Arthropods	subfamily II	DmChd3
+NP_001245851.1	7227	Drosophila melanogaster	RefSeq	Metazoa - Arthropods	subfamily I	DmCHD1
+XP_629261.1	44689	Dictyostelium discoideum	RefSeq	Other_Eukaryotes - Amoebozoa	subfamily III	DdChdC
+XP_641133.1	44689	Dictyostelium discoideum	RefSeq	Other_Eukaryotes - Amoebozoa	subfamily III	DdChdB
+XP_638708.1	44689	Dictyostelium discoideum	RefSeq	Other_Eukaryotes - Amoebozoa	subfamily I	DdChdA
+NP_504523.1	6239	Caenorhabditis elegans	RefSeq	Metazoa - Other_Protostomes	subfamily II	Celet-418
+NP_491426.2	6239	Caenorhabditis elegans	RefSeq	Metazoa - Other_Protostomes	subfamily III	CeKismet
+NP_510140.1	6239	Caenorhabditis elegans	RefSeq	Metazoa - Other_Protostomes	subfamily II	CeCHD3
+NP_491994.2	6239	Caenorhabditis elegans	RefSeq	Metazoa - Other_Protostomes	subfamily I	CeCHD1
+NP_001325086.1	3702	Arabidopsis thaliana	RefSeq	Viridiplantae - Eudicots	subfamily I	AtPKR3
+NP_194918.2	3702	Arabidopsis thaliana	RefSeq	Viridiplantae - Eudicots	subfamily II - plant PKL	AtPKR2
+NP_199293.3	3702	Arabidopsis thaliana	RefSeq	Viridiplantae - Eudicots	subfamily II - plant PKR1	AtPKR1
+NP_001324293.1	3702	Arabidopsis thaliana	RefSeq	Viridiplantae - Eudicots	subfamily II - plant PKL	AtPKL
+NP_001322007.1	3702	Arabidopsis thaliana	RefSeq	Viridiplantae - Eudicots	subfamily II - plant MOM1	AtMOM1

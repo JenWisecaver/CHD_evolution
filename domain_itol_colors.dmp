@@ -1,0 +1,26 @@
+CMM1	green	#33a02c	square	RE
+CMM2	light green	#b2df8a	square	RE
+OF2	red	#e31a1c	square	RE
+OF3	light orange	#fdbf6f	square	RE
+OF4	orange	#ff7f00	square	RE
+OF5	light purple	#cab2d6	square	RE
+OF6	purple	#6a3d9a	square	RE
+OF9	brown	#b15928	square	RE
+SF3M1	light blue	#a6cee3	square	RE
+SF3M2	blue	#1f78b4	square	RE
+SF3M3	light green	#b2df8a	square	RE
+SF3M4A	green	#33a02c	square	RE
+SF3M4B	pink	#fb9a99	square	RE
+Helicase	light grey	#bdbdbd	square	RE
+SNF2	black	#000000	square	REBRK	green	#1b9e77	square	RE
+CHDNT	light green	#66a61e	circle	EL
+Chromo	dark grey	#737373	circle	EL
+DUF1086	magenta	#f0027f	square	RE
+DUF1087	light blue	#80b1d3	circle	EL
+DUF4208	red	#b10026	square	RE
+Helicase	light grey	#bdbdbd	square	RE
+MIT1	light purple	#f781bf	circle	EL
+PHD	light orange	#fc8d62	square	RE
+SANT	blue	#253494	circle	EL
+SLIDE	purple	#984ea3	circle	EL
+SNF2	black	#000000	square	RE
